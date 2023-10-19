@@ -5,4 +5,3 @@ class Solution:
             result.append(nums[i])
             result.append(nums[n+i])
         return result
-            
